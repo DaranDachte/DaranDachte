@@ -1,5 +1,5 @@
 ### Hi there 👋
-May the force be with you | Möge die Macht mit dir sein | Dat de kracht met je moge zijn | Que la fuerza te acompañe | Che la forza sia con te | Que la force soit avec toi | フォースのともにあらんことを| η Δύναμη να είναι μαζί σου!| Да пребудет с тобой Сила
+May the Force be with you | Möge die Macht mit dir sein | Dat de Kracht met je moge zijn | Que la Fuerza te acompañe | Che la Forza sia con te | Que la Force soit avec toi | フォースのともにあらんことを| η Δύναμη να είναι μαζί σου | Да пребудет с тобой Сила
 
 - 🔭 I’m currently working on small, varied projects where I can improve my ability to code
 - 🌱 I’m currently learning  TypeScript and Redux

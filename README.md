@@ -6,7 +6,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaranDachte&theme=tokyonight)](https://git.io/streak-stats)
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40" alt="Top used languages" />
 
   <p>    
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>

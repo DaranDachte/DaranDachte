@@ -6,7 +6,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaranDachte&theme=tokyonight)](https://git.io/streak-stats)
+
 
    <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>

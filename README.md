@@ -4,9 +4,11 @@
 - 💬 Ask me about everything in three languages. I speak German, English and Russian.
 - 📫 How to reach me: darandachte@gmail.com
 
-
+_______________________
 
 <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40" alt="Top used languages" />
+
+_______________________
 
   <p>    
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -21,6 +23,8 @@
     <a  href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p>
 
+
+_______________________
 <!--
 **DaranDachte/DaranDachte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

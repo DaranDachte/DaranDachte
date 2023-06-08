@@ -1,4 +1,6 @@
 ### Hi there 👋
+May the force be with you |Möge die Macht mit dir sein | Dat de kracht met je moge zijn |Que la fuerza te acompañe | Che la forza sia con te |Que la force soit avec toi | フォースのともにあらんことを|η Δύναμη να είναι μαζί σου!|Да пребудет с тобой Сила
+
 - 🔭 I’m currently working on small, varied projects where I can improve my ability to code
 - 🌱 I’m currently learning  TypeScript and Redux
 - 💬 Ask me about everything in three languages. I speak German, English and Russian.

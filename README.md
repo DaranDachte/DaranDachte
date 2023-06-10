@@ -1,4 +1,4 @@
-### Hi there 👋
+
 May the Force be with you | Möge die Macht mit dir sein | Dat de Kracht met je moge zijn | Que la Fuerza te acompañe | Che la Forza sia con te | Que la Force soit avec toi | フォースのともにあらんことを| η Δύναμη να είναι μαζί σου | Да пребудет с тобой Сила
 
 - 🔭 I’m currently working on small, varied projects where I can improve my ability to code
@@ -29,7 +29,7 @@ _______________________
 _______________________
 <!--
 **DaranDachte/DaranDachte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

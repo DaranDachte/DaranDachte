@@ -23,7 +23,7 @@ _______________________
     <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
     <a  href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
     <a  href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-     <a  href="https://mantine.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mantine.png"/> </a>
+<!--     <a  href="https://mantine.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mantine.png"/> </a> --!>
 </p>
 
 

@@ -8,7 +8,7 @@ May the Force be with you | Möge die Macht mit dir sein | Dat de Kracht met je 
 
 _______________________
 
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40" alt="Top used languages" />
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaranDachte&theme=react&line_height=40" alt="Top used languages" />
 
 _______________________
 

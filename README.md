@@ -5,7 +5,7 @@ May the Force be with you | Möge die Macht mit dir sein | Dat de Kracht met je 
 - 🌱 I’m currently learning  TypeScript and Redux
 - 💬 Ask me about everything in three languages. I speak German, English and Russian.
 - 📫 How to reach me: darandachte@gmail.com
-
+- ✨ This is my landing page, where you can see some of my works in business https://single-page-portfolio-avgz.vercel.app/
 _______________________
 
 <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaranDachte&theme=react&line_height=40" alt="Top used languages" />

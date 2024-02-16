@@ -2,7 +2,7 @@
 May the Force be with you | Möge die Macht mit dir sein | Dat de Kracht met je moge zijn | Que la Fuerza te acompañe | Che la Forza sia con te | Que la Force soit avec toi | フォースのともにあらんことを| η Δύναμη να είναι μαζί σου | Да пребудет с тобой Сила
 
 - 🔭 I’m currently working on small, varied projects where I can improve my ability to code
-- 🌱 I’m currently learning  TypeScript and Vue 3
+- 🌱 I’m currently learning  TypeScript, Vue 3 and Nuxt 3
 - 💬 Ask me about everything in three languages. I speak German, English and Russian.
 - 📫 How to reach me: darandachte@gmail.com
 - ✨ This is my landing page, where you can see some of my works in business https://single-page-portfolio-avgz.vercel.app/

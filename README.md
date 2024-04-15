@@ -27,10 +27,10 @@ _______________________
     <a  href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tbleCw0ch6QC&format=png&color=E090F0,05BDF5"/> </a>
      <a  href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"/> </a>
     
-   <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/DaranDachte/DaranDachte/main/assets/96144068/af752c1b-ffca-43e3-b601-d74d9cfcfdac" width="48" height="48"/> </a>
+   <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png?size=48"/> </a>
 
-  <img src="https://raw.githubusercontent.com/DaranDachte/DaranDachte/main/assets/96144068/af752c1b-ffca-43e3-b601-d74d9cfcfdac.png" alt="Pinia logo" width="48" height="48">
-</a>
+ 
+
 
 <!--     <a  href="https://mantine.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mantine.png"/> </a> --!>
 </p>

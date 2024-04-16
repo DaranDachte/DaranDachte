@@ -26,13 +26,14 @@ _______________________
     <a  href="https://nuxt.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=nvrsJYs7j9Vb&format=png"/> </a>
     <a  href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tbleCw0ch6QC&format=png&color=E090F0,05BDF5"/> </a>
      <a  href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"/> </a>
+      <a  href="https://mantine.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/79146003?s=48&v=4"/> </a> 
     
  <!--<a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png?width=48&height=48"/> </a>--!>
 
  
 
 
-<!--     <a  href="https://mantine.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mantine.png"/> </a> --!>
+ 
 </p>
 
 

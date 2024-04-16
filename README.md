@@ -20,7 +20,7 @@ _______________________
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>    
      <a  href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-      <a  href="https://mantine.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/79146003?s=48&v=4"/> </a>
+      <a  href="https://mantine.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/79146003?s=45&v=4"/> </a>
     <a  href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
     <a  href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>

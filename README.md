@@ -24,7 +24,6 @@ _______________________
     <a  href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
     <a  href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
-   
     <a  href="https://nuxt.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=nvrsJYs7j9Vb&format=png"/> </a>
     <a  href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tbleCw0ch6QC&format=png&color=E090F0,05BDF5"/> </a>
      <a  href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"/> </a>

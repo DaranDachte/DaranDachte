@@ -28,7 +28,7 @@ _______________________
     <a  href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tbleCw0ch6QC&format=png&color=E090F0,05BDF5"/> </a>
      <a  href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"/> </a>
     <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://github.com/DaranDachte/DaranDachte/assets/96144068/a6478cd8-7221-4461-a3e1-e9857217f3e3"/> </a>
-
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=GOHWqwnSE8Sv&format=png&color=1A6DFF,C822FF"/> </a>
 
     
 
